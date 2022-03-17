@@ -72,6 +72,8 @@ Information coming soon!
 | 9:30 to 10:30 | Show and tell |
 | 10:30 to 11:00 | Wrap up |
 |  | Join us for a wrap-up lunch at Cat’s Caboose if you are near campus! |
+
+
 ## Contact
 
 Please send and email to `dsl@brocku.ca` if you have questions or if you'd like to explore running a stream.
