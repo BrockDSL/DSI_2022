@@ -48,11 +48,11 @@ Geographic Information Systems (GIS) are used to analyze, display and communicat
 
 **Programming for Humanists — Jupyter (Instructors: Dr. Aaron Mauro)**
 
-TBD 
+*Information coming soon!*
 
 ## Short Streams
 
-Information coming soon!
+*Information coming soon!*
 
 ## Long Streams Schedule 
 
@@ -73,6 +73,9 @@ Information coming soon!
 | 10:30 to 11:00 | Wrap up |
 |  | Join us for a wrap-up lunch at Cat’s Caboose if you are near campus! |
 
+## Short Streams Schedule
+
+*Information coming soon!*
 
 ## Contact
 
