@@ -54,6 +54,14 @@ TBD
 
 Information coming soon!
 
+## Long Streams Schedule 
+
+| Time | Day 1 |       | Time | Day 2 |
+| ---- | ----- | ----- | ---- | ----- |
+| 9:00 to 9:45 | Welcome and setting the stage |  | 9:00 to 9:15 | Setting the stage for day 2 |
+
+
+
 
 
 ## Contact
