@@ -59,11 +59,19 @@ Information coming soon!
 | Time | Day 1 |       | Time | Day 2 |
 | ---- | ----- | ----- | ---- | ----- |
 | 9:00 to 9:45 | Welcome and setting the stage |  | 9:00 to 9:15 | Setting the stage for day 2 |
+| 10:00 to 10:45 | Work with stream |  | 9:30 to 10:45 | Work with stream |
+| 11:00 to 11:45 | Work with stream |  | 11:00 to 11:45 | Work with stream |
+| 11:45 to 1:00 | Lunch |  | 11:45 to 1:00 | Lunch |
+| 1:00 to 1:45 | Work with stream |  | 1:00 to 1:45 | Work with stream |
+| 2:00 to 2:45 | Work with stream |  | 2:00 to 2:45 | Work with stream |
+| 3:00 to 3:30 | Wrap-up |  | 3:00 to 3:30 | Wrap-up |
 
 
-
-
-
+| Time | Day 3 |
+| ---- | ----- |
+| 9:30 to 10:30 | Show and tell |
+| 10:30 to 11:00 | Wrap up |
+|  | Join us for a wrap-up lunch at Cat’s Caboose if you are near campus! |
 ## Contact
 
 Please send and email to `dsl@brocku.ca` if you have questions or if you'd like to explore running a stream.
