@@ -1,6 +1,5 @@
 # Digital Scholarship Institute 2022
 
-[**Register for DSI 2022**](https://forms.office.com/r/Rcff0pZqG4)
 
 ## When
 
@@ -23,6 +22,8 @@ By the end of this institute, participants will:
 
 - Establish a cohort as part of this institute to cultivate knowledge sharing and on-going support during and following the institute 
 
+
+[**Register for DSI 2022**](https://forms.office.com/r/Rcff0pZqG4)
 
 ## How the Institute will Function
 
@@ -99,7 +100,7 @@ Close reading is an analysis method that helps facilitate an in-depth understand
 | 2:00 to 2:45 | Pressbooks Part 2 |  | 2:00 to 2:45 | Social Annotation Part 2 |
 | 3:00 to 3:30 | Wrap-up |  | 3:00 to 3:30 | Wrap-up |
 
-## 
+## Register 
 [**Register for DSI 2022**](https://forms.office.com/r/Rcff0pZqG4)
 
 ## Contact
