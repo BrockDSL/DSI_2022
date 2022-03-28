@@ -1,12 +1,12 @@
 # Digital Scholarship Institute 2022
 
+[![Register for DSI 2022](https://user-images.githubusercontent.com/91914009/160487784-4fbfdb5c-ed3f-4684-b858-e502ccb0d45d.png)](https://forms.office.com/r/Rcff0pZqG4)
 
 ## When
 
 - Tuesday May 3, 9:00 - 2:45
 - Wednesday May 4, 9:00 - 2:45
 - Thursday May 5, 9:00 - 11:00
-
 
 ## Objectives
 
@@ -22,8 +22,6 @@ By the end of this institute, participants will:
 
 - Establish a cohort as part of this institute to cultivate knowledge sharing and on-going support during and following the institute 
 
-
-[**Register for DSI 2022**](https://forms.office.com/r/Rcff0pZqG4)
 
 ## How the Institute will Function
 
@@ -101,7 +99,7 @@ Close reading is an analysis method that helps facilitate an in-depth understand
 | 3:00 to 3:30 | Wrap-up |  | 3:00 to 3:30 | Wrap-up |
 
 ## Register 
-[**Register for DSI 2022**](https://forms.office.com/r/Rcff0pZqG4)
+[![Register for DSI 2022](https://user-images.githubusercontent.com/91914009/160487784-4fbfdb5c-ed3f-4684-b858-e502ccb0d45d.png)](https://forms.office.com/r/Rcff0pZqG4)
 
 ## Contact
 DSI 2022 is hosted in collaboration with:
