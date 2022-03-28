@@ -1,5 +1,6 @@
 # Digital Scholarship Institute 2022
 
+[**Register for DSI 2022**](https://forms.office.com/r/Rcff0pZqG4)
 
 ## When
 
@@ -52,7 +53,20 @@ Geographic Information Systems (GIS) are used to analyze, display and communicat
 
 ## Short Streams
 
+**LMS Showcase (Instructor: TBA)**  
 *Information coming soon!*
+
+**Pressbooks (Instructor: TBA)**  
+*Information coming soon!*
+
+**H5P Studio (Instructor: TBA)**  
+*Information coming soon!*
+
+**Social Annotation (Instructor: Tim Ribaric)**
+
+ 
+
+Close reading is an analysis method that helps facilitate an in-depth understanding of a piece of text. The difficulty arises when trying to conduct a close reading exercise in a classroom environment. Attendees will explore [Hypothes.is]( https://web.hypothes.is/): a web-based tool that allows a group to collaboratively read through and annotate a document in real time. Simply by providing a link or uploading a PDF a group can create an environment that allows for an engaging and rich platform to pour over a body of text. The platform can also be natively embedded into Sakai making for a seamless integration with other course work. See the power of Hypothes.is in action with this marked up rendition of [The Rime of the Ancient Mariner]( https://via.hypothes.is/https://www.bartleby.com/101/549.html). 
 
 ## Long Streams Schedule 
 
@@ -85,15 +99,14 @@ Geographic Information Systems (GIS) are used to analyze, display and communicat
 | 2:00 to 2:45 | Pressbooks Part 2 |  | 2:00 to 2:45 | Social Annotation Part 2 |
 | 3:00 to 3:30 | Wrap-up |  | 3:00 to 3:30 | Wrap-up |
 
-
-| Time | Day 3 |
-| ---- | ----- |
-| 9:30 to 10:30 | Show and tell |
-| 10:30 to 11:00 | Wrap up |
-|  | Join us for a wrap-up lunch at Cat’s Caboose if you are near campus! |
-
- 
+## 
+[**Register for DSI 2022**](https://forms.office.com/r/Rcff0pZqG4)
 
 ## Contact
+DSI 2022 is hosted in collaboration with:
+- Brock University Library Research Lifecycle Department
+- Brock University Library Teaching and Learning Department
+- Brock University Centre for Digital Humanities
+- Brock University Centre for Pedagogical Innovation
 
-Please send and email to `dsl@brocku.ca` if you have questions or if you'd like to explore running a stream.
+Please send an email to <dsl@brocku.ca> if you have questions or if you'd like to explore running a stream.
