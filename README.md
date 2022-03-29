@@ -28,9 +28,9 @@ By the end of this institute, participants will:
 
 Normally, the Institute would meet in-person and take advantage of the newly updated Digital Scholarship Lab space in the Rankin Family Pavilion. For this iteration of the Institute, programming will occur synchronously over Teams. As the schedule below shows, there are two types of sessions: **group sessions**, where each participant and facilitator will meet, and **stream sessions**, where participants will meet only with colleagues interested in the same stream. **Group sessions** will feature content that is applicable to each stream, while **Stream sessions** will focus on the particularities of the stream’s main methodology. In this way, we hope that participants will be able to benefit from the insight of the larger group, while also develop a specialized cohort within streams. 
 
-Each 45-minute session is interrupted by a 15-minute break (we encourage you to take full advantage of these breaks). **Please know that** we recognize that participating in a virtual 2.5-day Institute brings with it is own challenges, in addition to the added pressures of working from home. You are not required to be “on” the entire time. We ask that you try to attend and participate during **group sessions**. During **Stream sessions**, facilitators and other subject experts will be available for consultation. If you face challenges, or want to bounce ideas off others, **Stream sessions** are a perfect opportunity to iron out your chosen project. 
+Each 45-minute session is interrupted by a 15-minute break (we encourage you to take full advantage of these breaks). **Please know that** we recognize that participating in a virtual 2.5-day Institute brings with it is own challenges, in addition to the added pressures of working from home. You are not required to be “on” the entire time. We ask that you try to attend and participate during **Group sessions**. During **Stream sessions**, facilitators and other subject experts will be available for consultation. If you face challenges, or want to bounce ideas off others, **Stream sessions** are a perfect opportunity to iron out your chosen project. 
 
-**Building on DSI 2021, DSI 2022 will feature two types of learning streams: long streams and short streams.**  
+**Building on DSI 2021, DSI 2022 will feature two types of learning streams: Long streams and Short streams.**  
 
 **Long streams** will run for the length of the institute (from Day 1 to Day 3). Participants will commit to participating in all three days. This format is the same as DSI2021. 
 
@@ -40,11 +40,11 @@ Each 45-minute session is interrupted by a 15-minute break (we encourage you to 
 
 **Digital Exhibits with CollectionBuilder and Github Pages (Instructor: Daniel Brett)** 
 
-Digital exhibits are an excellent way to share and display metadata rich materials digital objects. They are particularly useful in bringing to life digitized material to reach a wider audience. Attendees will dig into the digital exhibit platform CollectionBuilder. This platform is totally web-based and easy to work with. The only requirement is the collection of digital objects that will be showcased. For an example of a fully developed CollectionBuilder site please consult Brock Geodata Listing site. 
+Digital exhibits are an excellent way to share and display metadata rich materials digital objects. They are particularly useful in bringing to life digitized material to reach a wider audience. Attendees will dig into the digital exhibit platform CollectionBuilder. This platform is totally web-based and easy to work with. The only requirement is the collection of digital objects that will be showcased. For an example of a fully developed CollectionBuilder site please consult the [Brock Geodata Listing](https://brockdsl.github.io/geodata-listing/). 
 
 **Mapping and GIS with ArcGIS (Instructor: Sharon Janzen)** 
 
-Geographic Information Systems (GIS) are used to analyze, display and communicate data that contains a geospatial component. This stream will present two major GIS inspired tools: ArcGIS Online, a lightweight internet-based application that allows you to create interactive maps and Esri StoryMaps, which combines interactive maps with narrative text, graphic images and other multimedia content to portray your story to the world. Attendees will gain hands-on experience with these two platforms with the end goal of creating a compelling interactive story map. For an example of this technology in action please have a look at the 2020 Esri scholarship winning story map If Coastlines could Talk. 
+Geographic Information Systems (GIS) are used to analyze, display and communicate data that contains a geospatial component. This stream will present two major GIS inspired tools: ArcGIS Online, a lightweight internet-based application that allows you to create interactive maps and Esri StoryMaps, which combines interactive maps with narrative text, graphic images and other multimedia content to portray your story to the world. Attendees will gain hands-on experience with these two platforms with the end goal of creating a compelling interactive story map. For an example of this technology in action please have a look at the 2020 Esri scholarship winning story map [If Coastlines could Talk](https://storymaps.arcgis.com/stories/8997ca2440e24be4881612411ff6bf95).
 
 **Programming for Humanists — Jupyter (Instructors: Dr. Aaron Mauro)**
 
@@ -58,13 +58,10 @@ Geographic Information Systems (GIS) are used to analyze, display and communicat
 **Pressbooks (Instructor: TBA)**  
 *Information coming soon!*
 
-**H5P Studio (Instructor: TBA)**  
-*Information coming soon!*
+**H5P Studio (Instructor: Cal Murgu)**  
+H5P is an open source, community driven project to create richer online content and improve online learning experiences. H5P makes it easy to create, share and reuse HTML5 content and applications. eCampus hosts [H5PStudio](https://h5pstudio.ecampusontario.ca/), an easy-to-use web editor for folks working at institutions in Ontario. H5P lets us create interactive and engaging online content that can be shared via a Learning Management System (LMS), embedded in a web page, or shared directly as an URL. This session will introduce participants to H5P, the H5P editor, and provide an opportunity for participants to develop their own original content and embed it in a LMS. 
 
 **Social Annotation (Instructor: Tim Ribaric)**
-
- 
-
 Close reading is an analysis method that helps facilitate an in-depth understanding of a piece of text. The difficulty arises when trying to conduct a close reading exercise in a classroom environment. Attendees will explore [Hypothes.is]( https://web.hypothes.is/): a web-based tool that allows a group to collaboratively read through and annotate a document in real time. Simply by providing a link or uploading a PDF a group can create an environment that allows for an engaging and rich platform to pour over a body of text. The platform can also be natively embedded into Sakai making for a seamless integration with other course work. See the power of Hypothes.is in action with this marked up rendition of [The Rime of the Ancient Mariner]( https://via.hypothes.is/https://www.bartleby.com/101/549.html). 
 
 ## Long Streams Schedule 
