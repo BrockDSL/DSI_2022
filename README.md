@@ -46,17 +46,16 @@ Digital exhibits are an excellent way to share and display metadata rich materia
 
 Geographic Information Systems (GIS) are used to analyze, display and communicate data that contains a geospatial component. This stream will present two major GIS inspired tools: ArcGIS Online, a lightweight internet-based application that allows you to create interactive maps and Esri StoryMaps, which combines interactive maps with narrative text, graphic images and other multimedia content to portray your story to the world. Attendees will gain hands-on experience with these two platforms with the end goal of creating a compelling interactive story map. For an example of this technology in action please have a look at the 2020 Esri scholarship winning story map [If Coastlines could Talk](https://storymaps.arcgis.com/stories/8997ca2440e24be4881612411ff6bf95).
 
-**Programming for Humanists — Jupyter (Instructors: Dr. Aaron Mauro)**
-
-*Information coming soon!*
+**An Introduction to Natural Language Processing with Python (Instructors: Dr. Aaron Mauro)**
+Natural Language Processing (NLP) is a discipline that bridges computer science, linguistic computing, and many humanities-based fields. This stream of the Digital Scholarship Institute will introduce attendees to Python programming for NLP. We will learn fundamental syntax necessary to discover, prepare, and process large (and small) scale texts and visualize our results. This is a hands-on session and attendees will become very familiar with Jupyter Notebooks, which is an ideal environment to conduct, share, and present research. Attendees do not need to have past-experience with Python, Jupyter, or NLP. While some experience with programming will be an asset, a careful typist who is familiar with computers will find success in this session!
 
 ## Short Streams
 
 **LMS Showcase (Instructor: TBA)**  
-*Information coming soon!*
+Brock University's Next LMS will be a modern, cloud-based platform that can better support the needs of Brock University’s instructors and learners. In this session we will explore the basic building blocks of creating your course including multimedia creation, various assessment tools, grading, and feedback. 
 
 **Pressbooks (Instructor: TBA)**  
-*Information coming soon!*
+Pressbooks is an online book publishing platform that makes it easy to generate clean, well-formatted online books in multiple outputs. This session we will explore the eCampusOntario Pressbooks library and learn the basics of how to adapt, create, and publish your own open access book for teaching or research. 
 
 **H5P Studio (Instructor: Cal Murgu)**  
 H5P is an open source, community driven project to create richer online content and improve online learning experiences. H5P makes it easy to create, share and reuse HTML5 content and applications. eCampus hosts [H5PStudio](https://h5pstudio.ecampusontario.ca/), an easy-to-use web editor for folks working at institutions in Ontario. H5P lets us create interactive and engaging online content that can be shared via a Learning Management System (LMS), embedded in a web page, or shared directly as an URL. This session will introduce participants to H5P, the H5P editor, and provide an opportunity for participants to develop their own original content and embed it in a LMS. 
