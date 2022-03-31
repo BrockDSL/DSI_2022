@@ -1,6 +1,6 @@
 # Digital Scholarship Institute 2022
 
-<p style="font-size:20px"><a href="https://forms.office.com/r/Rcff0pZqG4" target="_blank">Register for DSI 2022</a>.</p>
+<p style="font-size:24px"><a href="https://forms.office.com/r/Rcff0pZqG4" target="_blank">Register for DSI 2022</a>.</p>
 
 ## When
 
@@ -105,7 +105,7 @@ Close reading is an analysis method that helps facilitate an in-depth understand
 | 3:00 to 3:30 | Wrap-up |  | 3:00 to 3:30 | Wrap-up |
 
 ## Register 
-<p><a href="https://forms.office.com/r/Rcff0pZqG4" target="_blank">Register for DSI 2022</a>.</p>
+<p style="font-size:24px"><a href="https://forms.office.com/r/Rcff0pZqG4" target="_blank">Register for DSI 2022</a>.</p>
 
 ## Contact
 DSI 2022 is hosted in collaboration with:
