@@ -51,10 +51,10 @@ Natural Language Processing (NLP) is a discipline that bridges computer science,
 
 ## Short Streams
 
-**LMS Showcase (Instructor: TBA)**  
+**LMS Showcase (Instructor: Mike Brousseau and Giulia Forsythe )**  
 Brock University's Next LMS will be a modern, cloud-based platform that can better support the needs of Brock University’s instructors and learners. In this session we will explore the basic building blocks of creating your course including multimedia creation, various assessment tools, grading, and feedback. 
 
-**Pressbooks (Instructor: TBA)**  
+**Pressbooks (Instructor: Mike Brousseau and Giulia Forsythe )**  
 Pressbooks is an online book publishing platform that makes it easy to generate clean, well-formatted online books in multiple outputs. This session we will explore the eCampusOntario Pressbooks library and learn the basics of how to adapt, create, and publish your own open access book for teaching or research. 
 
 **H5P Studio (Instructor: Cal Murgu)**  
