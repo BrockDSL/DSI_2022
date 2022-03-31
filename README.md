@@ -1,6 +1,7 @@
 # Digital Scholarship Institute 2022
 
-[![Register for DSI 2022](https://user-images.githubusercontent.com/91914009/160487784-4fbfdb5c-ed3f-4684-b858-e502ccb0d45d.png)](https://forms.office.com/r/Rcff0pZqG4)
+
+<p><a href="https://forms.office.com/r/Rcff0pZqG4" target="_blank">Register for DSI 2022</a>.</p>
 
 ## When
 
