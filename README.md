@@ -54,7 +54,7 @@ Natural Language Processing (NLP) is a discipline that bridges computer science,
 
 ## Short Streams
 
-**LMS Showcase (Instructors: [Mike Brousseau](https://twitter.com/mcbrousseau) and [Giulia Forsythe](https://twitter.com/giuliaforsythe))**  
+**LMS Showcase (Instructors: Marc Breschuk and Melanie Elliott)**  
 
 Brock University's Next LMS will be a modern, cloud-based platform that can better support the needs of Brock University’s instructors and learners. In this session we will explore the basic building blocks of creating your course including multimedia creation, various assessment tools, grading, and feedback. 
 
