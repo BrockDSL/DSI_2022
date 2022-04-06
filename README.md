@@ -2,6 +2,7 @@
 
 <p style="font-size:24px"><a href="https://forms.office.com/r/Rcff0pZqG4" target="_blank">Register for DSI 2022</a>.</p>
 Please note DSI is only open to Brock faculty and staff this year.
+
 ## When
 
 - Tuesday May 3, 9:00 - 3:30
