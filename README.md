@@ -9,6 +9,8 @@ Please note DSI is only open to Brock faculty and staff this year.
 - Wednesday May 4, 9:00 - 3:30
 - Thursday May 5, 9:00 - 11:00
 
+[Detailed Schedule](#schedule)
+
 ## Objectives
 
 The DSI is a three day, immersive, and interactive workshop that focuses on a core set of methodologies and tools that provide both a knowledge base and the confidence to create assignments that reflect the changing nature of teaching and learning in higher-ed. 
@@ -75,6 +77,7 @@ H5P is an open source, community driven project to create richer online content 
 Close reading is an analysis method that helps facilitate an in-depth understanding of a piece of text. The difficulty arises when trying to conduct a close reading exercise in a classroom environment. Attendees will explore [Hypothes.is]( https://web.hypothes.is/): a web-based tool that allows a group to collaboratively read through and annotate a document in real time. Simply by providing a link or uploading a PDF a group can create an environment that allows for an engaging and rich platform to pour over a body of text. The platform can also be natively embedded into Sakai making for a seamless integration with other course work. See the power of Hypothes.is in action with this marked up rendition of [The Rime of the Ancient Mariner]( https://via.hypothes.is/https://www.bartleby.com/101/549.html). 
 
 ## Long Streams Schedule 
+<a name="schedule"></a>
 
 | Time | Day 1 |       | Time | Day 2 |
 | ---- | ----- | ----- | ---- | ----- |
