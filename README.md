@@ -1,7 +1,7 @@
 # Digital Scholarship Institute 2022
 
 <p style="font-size:24px"><a href="https://forms.office.com/r/Rcff0pZqG4" target="_blank">Register for DSI 2022</a>.</p>
-Please note DSI is only open to Brock faculty and staff this year.
+Please note DSI is only open to Brock attendees this year.
 
 ## When
 
