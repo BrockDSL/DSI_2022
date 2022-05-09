@@ -1,8 +1,11 @@
 # Digital Scholarship Institute 2022
 
+***Thank you all for attending DSI 2022. We hope you enjoyed it as much as we have. See you next year!***
+
+<!---
 <p style="font-size:24px"><a href="https://forms.office.com/r/Rcff0pZqG4" target="_blank">Register for DSI 2022</a>.</p>
 Please note DSI is only open to Brock attendees this year.
-
+--->
 ## When
 
 - Tuesday May 3, 9:00 - 3:30
@@ -108,9 +111,10 @@ Close reading is an analysis method that helps facilitate an in-depth understand
 | 2:00 to 2:45 | Pressbooks Part 2 |  | 2:00 to 2:45 | Social Annotation Part 2 |
 | 3:00 to 3:30 | Wrap-up |  | 3:00 to 3:30 | Wrap-up |
 
+<!---
 ## Register 
 <p style="font-size:24px"><a href="https://forms.office.com/r/Rcff0pZqG4" target="_blank">Register for DSI 2022</a>.</p>
-
+--->
 ## Contact
 DSI 2022 is hosted in collaboration with:
 - Brock University Library Research Lifecycle Department
